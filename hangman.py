@@ -42,7 +42,7 @@ def main():
             print("hiding")
             break
         else:
-            print("try your luck")
+            print("try your luck!!")
             break
     length = len(word)
     count = 
